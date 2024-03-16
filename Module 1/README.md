@@ -1,4 +1,4 @@
-#Module 1 Project Description
+# Module 1 Project Description
 
 In this project you will create an interactive program to manage a todo list. You should create in a single python file called "todo_console_ui.py". Since we haven't introduced classes and functions yet, our data model will be simple.
 
