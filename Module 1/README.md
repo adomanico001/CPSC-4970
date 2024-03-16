@@ -1,3 +1,5 @@
+#Module 1 Project Description
+
 In this project you will create an interactive program to manage a todo list. You should create in a single python file called "todo_console_ui.py". Since we haven't introduced classes and functions yet, our data model will be simple.
 
 Your "todo list" must be a list of 3-tuples where each tuple has the following form: (completed, description, due date/time) where <i>completed</i> is a boolean, <i>description</i> is a string and <i>due date/time</i> is a datetime.datetime object.
