@@ -6,7 +6,7 @@ Do not create your own classes for this project. The idea here is to get used to
 
 Your user interface must include the following actions:
 
-<br>List ALL todo items<br>
+<br>List ALL todo items
 <br>List all incomplete todo items<br>
 <br>List incomplete todo items due today<br>
 <br>Add a todo item<br>
