@@ -7,8 +7,8 @@ Your "todo list" must be a list of 3-tuples where each tuple has the following f
 Do not create your own classes for this project. The idea here is to get used to working with lists and tuples so if you skip ahead to classes, you'll defeat the purpose.
 
 Your user interface must include the following actions:
-<br>List ALL todo items
-<br>List all incomplete todo items
+<br>* List ALL todo items
+<br>* List all incomplete todo items
 <br>List incomplete todo items due today
 <br>Add a todo item
 <br>Complete a todo item
