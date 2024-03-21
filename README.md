@@ -1,4 +1,4 @@
-# Module 2 Exercise/Project Description
+# Module 2 Exercise & Project Description
 <br>
-## Exercise
+##Exercise
 
