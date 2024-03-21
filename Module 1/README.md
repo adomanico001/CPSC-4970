@@ -9,10 +9,10 @@ Do not create your own classes for this project. The idea here is to get used to
 Your user interface must include the following actions:
 - List ALL todo items
 - List all incomplete todo items
-<br>List incomplete todo items due today
-<br>Add a todo item
-<br>Complete a todo item
-<br>Quit<br>
+- List incomplete todo items due today
+- Add a todo item
+- Complete a todo item
+- Quit<br>
 
 Your program does not have to handle user input errors (you can assume that the user will enter responses correctly).
 The grader will expect your program to work just like the one in the sample interaction (same menu items, same input format, same output format).
