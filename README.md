@@ -1,5 +1,5 @@
 # Module 2 Exercise & Project Description
-## **Exercise**
+## Exercise
 
 Create a module called `list_tools` (file named list_tools.py) and use list comprehensions to implement the following functions:
 
